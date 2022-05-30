@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 	 
 arf1gm130 = pd.read_excel (r'C:/Users/AG Bottanelli/Nextcloud2/Wong et al., 2021/ARF Paper 2021/Quantification/COPI - ARFs/Line Porfiles TOP View ARF1+COPI.xlsx')
 '''
-	Odd columns - intensity values 
+  Odd columns - intensity values 
     - I Ch1 (ARF): 4n+1 starting in 0 
     - I ch2 (marker): 4n-1 starting at 1 
   Even columns - distances 
